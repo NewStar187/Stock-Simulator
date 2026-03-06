@@ -1,4 +1,4 @@
-# 📈 Real-Time Stock Trading Simulator
+# Real-Time Stock Trading Simulator
 
 네이버 금융 데이터를 기반으로 **실시간 주가를 활용한 모의 주식 투자 프로그램**입니다.
 사용자는 콘솔 인터페이스를 통해 삼성전자 주식을 **매수 / 매도**하고 계좌 상태를 확인할 수 있습니다.
@@ -7,7 +7,7 @@
 
 ---
 
-# 🧠 Project Overview
+# Project Overview
 
 이 프로그램은 네이버 금융에서 **삼성전자 실시간 가격을 크롤링**하여 가상의 투자 환경을 제공합니다.
 
@@ -21,7 +21,7 @@
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 | Technology    | Description |
 | ------------- | ----------- |
@@ -32,21 +32,21 @@
 
 ---
 
-# 🚀 Features
+# Features
 
-### 1️⃣ 실시간 주가 조회
+### 1️. 실시간 주가 조회
 
 네이버 금융에서 삼성전자 현재가를 크롤링하여 실시간 가격을 반영합니다.
 
-### 2️⃣ 주식 매수
+### 2️. 주식 매수
 
 보유 현금을 기준으로 원하는 수량만큼 주식을 매수할 수 있습니다.
 
-### 3️⃣ 주식 매도
+### 3️. 주식 매도
 
 보유한 주식을 판매하여 현금을 확보할 수 있습니다.
 
-### 4️⃣ 투자 성과 계산
+### 4️. 투자 성과 계산
 
 프로그램은 자동으로 다음을 계산합니다.
 
@@ -57,7 +57,7 @@
 
 ---
 
-# 💻 Example Execution
+# Example Execution
 
 ```
 네이버 실시간 데이터 기반 삼성전자 모의투자 시작
@@ -77,7 +77,7 @@
 
 ---
 
-# 📦 Installation
+# Installation
 
 필요한 라이브러리
 
@@ -87,7 +87,7 @@ pip install requests beautifulsoup4
 
 ---
 
-# ▶️ Run
+# Run
 
 프로그램 실행
 
@@ -97,7 +97,7 @@ python stock_simulator.py
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 stock_simulator
@@ -107,14 +107,14 @@ stock_simulator
 
 ---
 
-# ⚠️ Notes
+# Notes
 
 * 이 프로젝트는 **학습용 모의 투자 프로그램**입니다.
 * 네이버 금융 웹페이지 구조 변경 시 크롤링 코드가 작동하지 않을 수 있습니다.
 
 ---
 
-# 🎯 Learning Goals
+# Learning Goals
 
 이 프로젝트를 통해 다음을 학습했습니다.
 
@@ -125,6 +125,6 @@ stock_simulator
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 GitHub: https://github.com/NewStar187
